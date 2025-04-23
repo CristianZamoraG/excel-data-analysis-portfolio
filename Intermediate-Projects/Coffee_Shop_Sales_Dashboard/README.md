@@ -19,7 +19,7 @@ This project is an interactive Excel dashboard designed to analyze sales data fr
 - Location-specific strategies improve overall performance
 
 ## How to Use
-1. Open `Coffee_Shop_Sales_Dashboard.xlsx`
+1. Open `Coffee_Shop_Sales.xlsx`
 2. Use slicers to filter by store location, product category, or time
 3. Review the dashboard visuals and recommendations section
 4. Apply insights for business decision-making
